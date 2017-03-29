@@ -1,0 +1,5 @@
+Este es un archivo de reflexiones sobre el curso de Git
+Se iran apuntando las diferentes ideas y dudas que surgan 
+a lo largo del mismo.
+
+1. ¿como de largas deben de ser la lineas para un repaso adecuado?
